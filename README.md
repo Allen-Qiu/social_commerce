@@ -1,5 +1,5 @@
 # social_commerce
-A demo for presenting our work on detecting social commerce in Yelp
+Data and codes in our work on detecting social commerce in Yelp
 
 1. affected_purchase.R makes an analysis on a question whether the purchase are influenced by friends.
 
