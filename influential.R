@@ -99,7 +99,7 @@ data$v<- log(res$v+1)/max(log(res$v+1))
 data$c<- log(res$c+1)/max(log(res$c+1))
 data$label<-res$lable
 
-# --- before removewing multicollinearity ---
+# --- before removing multicollinearity ---
 fullmodel<-glm(label~c+v+reviewcount+fans+avgstars+friends+iselite+pagerank,family = binomial("logit"), data=data)
 print(paste("balanced ACC:",bacc(fullmodel,data)))
 
