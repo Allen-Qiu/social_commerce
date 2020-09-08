@@ -14,3 +14,6 @@ add analysis on yelp13
 5. powerlaw_yelp13.zip plots powerlaw distribution and make goodness-to-fit test
 
 6. affected_purchase_yelp13.zip make the analysis on social influence on Yelp13
+
+-----------------------------------------------
+URL for the paper: http://www.jecr.org/node/610
