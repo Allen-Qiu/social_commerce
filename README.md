@@ -16,4 +16,4 @@ add analysis on yelp13
 6. affected_purchase_yelp13.zip make the analysis on social influence on Yelp13
 
 -----------------------------------------------
-URL for the paper: http://www.jecr.org/node/610
+The paper: http://www.jecr.org/node/610
